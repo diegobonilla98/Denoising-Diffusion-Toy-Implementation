@@ -11,3 +11,6 @@ Model is a UNet (OtherModel.py) with attention. Can't remember from where but pr
 
 # Resulsts on Landscapes
 ![](./landscapes_mat.png)
+
+# TO-DO
+Image interpolation via reversing the ODE in the forward direction.
